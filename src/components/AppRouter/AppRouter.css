@@ -1,0 +1,16 @@
+.page-header {
+  height: 55px;
+  line-height: 55px;
+  background: #24292e;
+  text-align: right;
+  padding: 0 20px;
+}
+
+.logout-button {
+  font-size: 14px;
+  padding: 7px 10px;
+  border: 0;
+  background: none;
+  color: #fff;
+  cursor: pointer;
+}
